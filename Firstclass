@@ -5,3 +5,11 @@ Public static void main String[]args
 System.out.println("This is my first class");
 }
 }
+
+Private class Summer
+{
+Private static void main String[]args
+{
+System.out.println("This is my second class");
+}
+}
